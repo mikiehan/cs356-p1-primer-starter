@@ -1,5 +1,5 @@
 
-# Assignment 1: Socket & Multithreaded Programming
+# P1 Primer: Socket & Multithreaded Programming
 ![enter image description here](https://us.123rf.com/450wm/bignai/bignai1807/bignai180700125/104198009-hand-plugs-internet-cable-into-wifi-extender-device-is-in-electrical-socket-on-the-wall.jpg)
 ## Socket Programming
 
