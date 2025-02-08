@@ -1,5 +1,5 @@
 
-# P1 Primer: Socket & Multithreaded Programming
+# P1: Socket & Multithreaded Programming
 ![enter image description here](https://us.123rf.com/450wm/bignai/bignai1807/bignai180700125/104198009-hand-plugs-internet-cable-into-wifi-extender-device-is-in-electrical-socket-on-the-wall.jpg)
 ## Socket Programming
 
@@ -81,7 +81,7 @@ to test your program.
 
 ### Submission and grading
 
-Submit the assignment by uploading your modified client and server files to **Canvas**.
+Push your modified client and server files to your github repository.
 
 We will grade your assignments by running it on the CS lab machine.
 Double check the specifications above and perform your own tests before
